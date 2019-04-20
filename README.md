@@ -1,6 +1,6 @@
-#MicroDexed for ESP32, beta 1.0, by nyh.
+# MicroDexed for ESP32, beta 1.0, by nyh.
 
-##Thanks to Holger W. for the MicroDexed code: https://github.com/dcoredump/MicroDexed
+## Thanks to Holger W. for the MicroDexed code: https://github.com/dcoredump/MicroDexed
 
 ----------
 
