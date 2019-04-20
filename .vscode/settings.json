@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "i2s.h": "c",
+        "periph_ctrl.h": "c",
+        "future": "cpp",
+        "optional": "cpp"
+    }
+}
