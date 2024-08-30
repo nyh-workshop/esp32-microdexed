@@ -18,3 +18,6 @@ have SSAT. Fundamentally, CLAMPS works the same as SSAT.
 
 As this is a beta, the code can be very messy. Again, I'm working to reorganize the code as much as possible.
 
+----------
+
+Notes: Project archived. Due to the MicroDexed code here being very old (Apr 2019), porting to other architectures is difficult. Please check alternative ports: [pico2dexed](https://github.com/nyh-workshop/pico2dexed) and [picodexed](https://github.com/diyelectromusic/picodexed).
